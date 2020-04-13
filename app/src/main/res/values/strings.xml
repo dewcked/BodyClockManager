@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Capston_Project</string>
+    <string name="main_title">매일매일</string>
+    <string name="main_button1">진단</string>
+    <string name="main_button2">생체리듬</string>
+    <string name="main_button3">오늘의 활동</string>
+    <string name="main_button4">시차 가이드</string>
+    <string name="survey_title">진단페이지</string>
+    <string name="survey_button1">음식</string>
+    <string name="survey_button2">체중</string>
+</resources>
